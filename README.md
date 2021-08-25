@@ -10,9 +10,9 @@ rm -rf phpstorm
 # reset-php-storm 2021
 
 
-cd ~/.config/JetBrains/PhpStorm2020.3/eval/
-rm PhpStorm203.evaluation.key
-cd..
+cd ~/.config/JetBrains/PhpStorm2021.2/eval/
+rm PhpStorm212.evaluation.key
+cd ..
 rm -R options
 cd ~/.java/.userPrefs/jetbrains
 rm -rf phpstorm
